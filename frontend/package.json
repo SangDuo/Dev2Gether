@@ -1,0 +1,47 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "2022 LikeLion Hackathon Frontend",
+  "author": "SangYoon Jeong",
+  "license": "SangDuo",
+  "scripts": {
+    "dev": "next dev -p 80",
+    "build": "next build",
+    "start": "next start -p 80",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@babel/core": "^7.18.10",
+    "@ckeditor/ckeditor5-build-classic": "^35.0.1",
+    "@ckeditor/ckeditor5-media-embed": "^35.0.1",
+    "@ckeditor/ckeditor5-react": "^5.0.2",
+    "@ckeditor/ckeditor5-upload": "^35.0.1",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.9.2",
+    "@mui/system": "^5.9.3",
+    "@mui/x-data-grid": "^5.15.0",
+    "@reduxjs/toolkit": "^1.8.3",
+    "axios": "^0.27.2",
+    "framer-motion": "^6.5.1",
+    "next": "12.2.2",
+    "next-redux-wrapper": "^7.0.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.2",
+    "redux": "^4.2.0",
+    "redux-persist": "^6.0.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.18.9",
+    "@types/node": "18.0.5",
+    "@types/react": "18.0.15",
+    "@types/react-dom": "18.0.6",
+    "@types/react-redux": "^7.1.24",
+    "eslint": "8.19.0",
+    "eslint-config-next": "12.2.2",
+    "typescript": "4.7.4"
+  }
+}
