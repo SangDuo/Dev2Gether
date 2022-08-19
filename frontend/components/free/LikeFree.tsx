@@ -97,8 +97,8 @@ const LikeFree: FunctionComponent<{ board: string }> = ({ board }) => {
       <Box sx={{ m: '30px 30px' }}>
         <b style={{ fontSize: '3rem' }}>좋아요한 게시물</b>
         <p>
-          {board === 'contest' && '공모전 게시판에서'} 좋아요를 누른 게시물들을
-          볼 수 있습니다.
+          {board === 'free' && '자유 게시판에서'} 좋아요를 누른 게시물들을 볼 수
+          있습니다.
         </p>
       </Box>
       <motion.div
@@ -144,7 +144,7 @@ const LikeFree: FunctionComponent<{ board: string }> = ({ board }) => {
             sx={{ fontFamily: 'nanumSquare' }}
             onClick={() => {
               setOpen(false)
-              Router.push(`/board/contest/${id}`)
+              Router.push(`/board/free/${id}`)
             }}
           >
             페이지로 이동

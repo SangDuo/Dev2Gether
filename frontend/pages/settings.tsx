@@ -13,7 +13,7 @@ import Manager from '../components/profile/Manager'
 import AssignmentIcon from '@mui/icons-material/Assignment'
 import FolderIcon from '@mui/icons-material/Folder'
 import EditIntroduction from '../components/profile/EditIntroduction'
-import MyFree from '../components/free/MyFREE'
+import MyFree from '../components/free/MyFree'
 import LikeContest from '../components/contest/LikeContest'
 import LikeFree from '../components/free/LikeFree'
 
@@ -189,7 +189,7 @@ const Settings = () => {
                 <FavoriteIcon />
               </Avatar>
             </ListItemAvatar>
-            <span>관심있는 게시물</span>
+            <span>좋아요한 게시물</span>
           </ListItem>
           <Divider />
           {category === 3 && (
