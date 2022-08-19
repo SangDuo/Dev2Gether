@@ -1,5 +1,5 @@
 # Dev2Gether
-> **LIKELION UNIV. 10TH HACKATHON*
+> **LIKELION UNIV. 10TH HACKATHON**
 
 ## Frontend
 ### Tech
