@@ -5,7 +5,7 @@
 ### Tech
 * **TypeScript**
 * **Next.js**
-* **Redux(+ Toolkit, Wrapper)**
+* **Redux(+ Toolkit, Wrapper, Persist)**
 
 ## Backend
 ### Tech
