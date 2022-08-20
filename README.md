@@ -1,6 +1,10 @@
 # Dev2Gether
 > **LIKELION UNIV. 10TH HACKATHON**
 
+## Developer
+* **정상윤(FE)**
+* **김상윤(BE)**
+
 ## Frontend
 ### Tech
 * **TypeScript**
