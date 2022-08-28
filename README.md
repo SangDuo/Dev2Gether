@@ -14,3 +14,4 @@
 ## Backend
 ### Tech
 * **Express.js**
+* **MySQL**
