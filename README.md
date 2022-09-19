@@ -1,5 +1,5 @@
 # Dev2Gether
-> **LIKELION UNIV. 10TH HACKATHON**
+> **LikeLion 10th Hackathon Project**
 
 ## Developer
 * **정상윤(FE)**
