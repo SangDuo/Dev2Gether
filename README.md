@@ -18,4 +18,3 @@
 
 ### Tech
 * **Express.js**
-* **MySQL**
